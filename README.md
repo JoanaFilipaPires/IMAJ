@@ -1,1 +1,1 @@
-Os ficheiros são de Outsystems!
+IMAJ.oml -> Outsystems file with app
